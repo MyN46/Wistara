@@ -1,0 +1,16 @@
+{
+  "name": "squipperboy",
+  "version": "1.0.0",
+  "description": "Rise and Shine",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "w!"
+  },
+  "author": "aweh",
+  "license": "ISC"
+}
