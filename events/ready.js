@@ -4,5 +4,5 @@ module.exports = client => {
     `(👌) Ready on ${client.guilds.cache.size} servers, for a total of ${client.users.cache.size} users.`
   );
   
-  client.user.setActivity(`..help Aweh | ${client.users.cache.size} users`, { type: "PLAYING" },5000)
+  client.user.setActivity(`..help | ${client.users.cache.size} users`, { type: "PLAYING" },5000)
  }
